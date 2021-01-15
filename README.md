@@ -1,1 +1,1 @@
-# clrs_algorithms
+[workspace]
